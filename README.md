@@ -6,11 +6,15 @@ I am a journalist turned AI professional integrating coding skills to bridge the
 
 ### 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Datawrapper](https://img.shields.io/badge/Datawrapper-STOP?style=for-the-badge&logo=datawrapper&logoColor=white)
-![Gemini](https://img.shields.io/badge/GenAI-Evaluation-8E75B2?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-Project_Mgmt-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-Workflows-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Methodology-E01F5A?style=for-the-badge)
+
+![Gemini](https://img.shields.io/badge/GenAI-RLHF_&_Eval-8E75B2?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Data_Analysis-Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-Basic_Syntax-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Querying-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -25,4 +29,4 @@ I am a journalist turned AI professional integrating coding skills to bridge the
 ![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
 
 ---
-[Connect with me on LinkedIn]([https://www.linkedin.com/in/anantprakasha/]
+[Connect with me on LinkedIn](https://www.linkedin.com/in/anantprakasha/)
