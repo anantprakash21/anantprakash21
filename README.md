@@ -13,7 +13,7 @@ I am a journalist turned AI professional integrating coding skills to bridge the
 ![Gemini](https://img.shields.io/badge/GenAI-RLHF_&_Eval-8E75B2?style=for-the-badge)
 ![Google Sheets](https://img.shields.io/badge/Data_Analysis-Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-Basic_Syntax-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Querying-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
