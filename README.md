@@ -1,6 +1,6 @@
 # Hi there, I'm Anant Prakash! 👋
 
-### 🤖 AI Content Quality Expert | 📊 Data Journalist | ✍️ UX Writer###
+### 🤖 AI Content Quality Expert | 📊 Data Journalist | ✍️ UX Writer
 
 I am a journalist turned AI professional integrating coding skills to bridge the gap between editorial nuance and technical logic. With 10+ years at BBC Hindi and The Quint, I now work on Human-in-the-Loop (HITL) evaluation to ensure AI models are safe, accurate, and culturally competent.
 
