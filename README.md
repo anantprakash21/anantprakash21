@@ -1,8 +1,8 @@
 # Hi there, I'm Anant Prakash 👋
 
-### 🧠 GenAI Product Delivery | UX & Human-AI Interaction 
+### 🧠 GenAI Product Delivery | Agile Leader | UX & Human-AI Interaction 
 
-I manage AI/ML software delivery, with a strict focus on Generative AI product architecture and user experience. My work centers on decoding interaction costs, evaluating LLM outputs, and mapping user expectations for GenAI products.
+I manage AI/ML software delivery in SAFe environment, with a strict focus on Generative AI product architecture and user experience. My work centers on decoding interaction costs, evaluating LLM outputs, and mapping user expectations for GenAI products.
 
 I document my UX research and product breakdowns at [anantprakash.substack.com](https://anantprakash.substack.com). 
 
