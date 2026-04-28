@@ -21,7 +21,7 @@ I document my UX research and product breakdowns at [anantprakash.substack.com](
 
 ---
 ### 📈 GitHub Stats
-![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantprakash21&show_icons=true&theme=radical)
 
 ---
 [Read my Substack](https://anantprakash.substack.com) | [Connect on LinkedIn](https://www.linkedin.com/in/anantprakasha/)
